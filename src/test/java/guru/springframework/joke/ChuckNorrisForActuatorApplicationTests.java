@@ -1,4 +1,4 @@
-package guru.springframework.chucknorrisforactuator;
+package guru.springframework.joke;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
